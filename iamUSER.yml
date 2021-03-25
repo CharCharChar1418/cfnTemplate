@@ -1,0 +1,5 @@
+Resources:
+  AutoScalingSLR:
+    Type: AWS::IAM::User
+    Properties: 
+        UserName: TESTUSER
